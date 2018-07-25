@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>原生上传.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6AA976B054FA5412A5BEDFF3ED049DDBCA78D73C</string>
+				<key>dateExpires</key>
+				<string>2019/6/21</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>84US4G6VP2.com.titletech.EquipmentUpgradeUploadFileTest</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>84US4G6VP2</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>84US4G6VP2.com.titletech.EquipmentUpgradeUploadFileTest</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>原生上传.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b67f1a67-c048-49b9-bcb3-88abe7916b06</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>84US4G6VP2</string>
+				<key>name</key>
+				<string>SHENYANG TITLETECH CO., LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
